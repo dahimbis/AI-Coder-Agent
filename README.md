@@ -9,4 +9,5 @@ It is designed to automate repetitive coding tasks and generate structured outpu
 - Plans the approach before writing code
 - Executes the code and captures the output
 - Saves both code and output to a file
-- Modular design for easy extension to 
+- Modular design for easy extension to
+- useful for automation of coding tasks.
